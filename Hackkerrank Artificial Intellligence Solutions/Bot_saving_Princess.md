@@ -31,7 +31,7 @@ Complete the function displayPathtoPrincess which takes in two parameters - the 
 
 ### Solution:
 
-[https://github.com](https://github.com/Jeru-John/ML-case-studies/blob/main/Hackkerrank%20Artificial%20Intellligence%20Solutions/Bot_Saving_Princess.py)
+[https://github.com/Jeru-John/ML-case-studies/Hackerrank/Bot_saving_princess](https://github.com/Jeru-John/ML-case-studies/blob/main/Hackkerrank%20Artificial%20Intellligence%20Solutions/Bot_Saving_Princess.py)
 
 ### Algorithm to Convert Grid into Data:
 
