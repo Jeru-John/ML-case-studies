@@ -47,6 +47,8 @@ Complete the function displayPathtoPrincess which takes in two parameters - the 
 
 ### Simple Understanding of the problem:
 
+![WhatsApp Image 2023-09-01 at 11 46 08 PM](https://github.com/Jeru-John/ML-case-studies/assets/141055457/3290b5b4-e5b0-4e5e-ac24-2efb044347ec)
+
 In the above image consider 1 to be the m position of the bot and 5 to be the p position of the princess.
 bot_position = (1,1) => bot_col = 1, bot_row = 1
 princess_position = (2,2) => princess_col = 2 , princess_row = 2
